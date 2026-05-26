@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
+  <img src="https://img.shields.io/badge/Downloads-10K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="10K+ Downloads on Google Play" />
 </p>
 
 This is a full-fledged Android application that I architected and developed **completely from scratch in Java** during my time at **Zeesoft Tech**. 
 
 The app serves as a comprehensive spiritual companion and daily Islamic utility. It combines the complete sacred text of the Holy Quran with high-quality audio recitations, multilingual translations, highly accurate prayer times, and interactive tools like a Qibla compass and digital Tasbeeh counter.
 
-With **over 50,000+ active downloads** on the Google Play Store, this app provides millions of users worldwide with an elegant, stable, and offline-ready resource for their daily prayers and spiritual growth.
+With **over 10,000+ active downloads** on the Google Play Store, this app provides millions of users worldwide with an elegant, stable, and offline-ready resource for their daily prayers and spiritual growth.
 
 ## 👨‍💻 My Role & Contributions
 
@@ -89,4 +89,4 @@ Here is a look at the final Quran reading layouts, Qibla compass screens, and da
 ## 🏢 Project Details
 * **Role:** Lead Developer (Ground-up Java Architecture & Full-Stack Development)
 * **Company:** Zeesoft Tech
-* **Availability:** Available on the Google Play Store (**50K+ Downloads**), [**Download Now**](https://play.google.com/store/apps/details?id=com.awami.alquran.holyquran.quran)
+* **Availability:** Available on the Google Play Store (**10K+ Downloads**), [**Download Now**](https://play.google.com/store/apps/details?id=com.awami.alquran.holyquran.quran)
